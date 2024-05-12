@@ -33,7 +33,7 @@ function copyText(content) {
 const discord = document.getElementById("discord")
 const discordText = document.getElementById("discord-text")
 discord.addEventListener("click", (e) => {
-  const text = "algoskril"
+  const text = "Tagilla"
 
   discordText.innerText = "Copied!!!"
   setTimeout(() => {
@@ -48,13 +48,13 @@ const facebook = document.getElementById("facebook")
 const gmail = document.getElementById("mail")
 
 github.addEventListener("click", (e) => {
-  window.open("https://github.com/kg2714", "_blank").focus()
+  window.open("https://github.com/endermeme", "_blank").focus()
 })
 
 facebook.addEventListener("click", (e) => {
   window
     .open(
-      "https://www.facebook.com/lelygg89sgdbgr4t56d5fg1s6554651f31g6d54/",
+      "https://www.facebook.com/binh.depagan/",
       "_blank",
     )
     .focus()
